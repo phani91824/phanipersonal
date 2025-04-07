@@ -50,7 +50,7 @@ body {
         /* Optional: style the main content of the columns */
         .content {
             background-color: #708090;
-            color: #fff;
+            color: white;
             padding: 20px;
             margin-bottom: 20px;
         }
